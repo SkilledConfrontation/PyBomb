@@ -22,6 +22,8 @@ Displays 10 windows that cant be exited out.
 
 How to run this program:
 
+Replace lines 106 and 130 with proper email adresses before compiling to an exe.
+
 To run this program, download pyinstaller through pip. Pyinstaller currently will not work on python 3.7.
 To overcome this problem, I installed python 3.6.6 and pyinstaller worked then. To generate the .exe go to the project folder where the python script is at and do pyinstaller --noconsole Main.py. Once finished go back to the directory you ran it from. Run the .exe file and you should be good to go. Have fun installing this on a firends pc for a good prank!
 
